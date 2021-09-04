@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBinding Example</string>
+    <string name="zero">0</string>
+</resources>
